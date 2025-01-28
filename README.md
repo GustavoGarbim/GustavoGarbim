@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Gustavo Pereira Garbim, tenho 18 anos e sou natural de Sao Paulo. Estudo na "[ETEC](https://basilides.com.br)" com o curso técnico em Análise e Desenvolvimento de Sistemas, e realizo o "[PROPROFISSÃO](https://www.proa.org.br/proprofissao/)" 1º Semestre 2025. No futuro, planejo entrar para a fatec cursando Ciência de Dados. Sou apaixonado por tecnologia e conhecimento.
+Me chamo Gustavo Pereira Garbim, tenho 18 anos e sou natural de São Paulo. Estudo na "[ETEC](https://basilides.com.br)" com o curso técnico em Análise e Desenvolvimento de Sistemas, e realizo o "[PROPROFISSÃO](https://www.proa.org.br/proprofissao/)" 1º Semestre 2025. No futuro, planejo entrar para a fatec cursando Ciência de Dados. Sou apaixonado por tecnologia e conhecimento.
 
 <p align="left">
     </a> 
